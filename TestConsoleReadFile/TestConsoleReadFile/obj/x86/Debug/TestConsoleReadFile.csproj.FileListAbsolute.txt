@@ -1,0 +1,4 @@
+\\vmware-host\Shared Folders\Documents\Projet - EPITA SUP\The keeper hand\Projet Visual 2010 XNA\TestConsoleReadFile\TestConsoleReadFile\bin\Debug\TestConsoleReadFile.exe
+\\vmware-host\Shared Folders\Documents\Projet - EPITA SUP\The keeper hand\Projet Visual 2010 XNA\TestConsoleReadFile\TestConsoleReadFile\bin\Debug\TestConsoleReadFile.pdb
+\\vmware-host\Shared Folders\Documents\Projet - EPITA SUP\The keeper hand\Projet Visual 2010 XNA\TestConsoleReadFile\TestConsoleReadFile\obj\x86\Debug\TestConsoleReadFile.exe
+\\vmware-host\Shared Folders\Documents\Projet - EPITA SUP\The keeper hand\Projet Visual 2010 XNA\TestConsoleReadFile\TestConsoleReadFile\obj\x86\Debug\TestConsoleReadFile.pdb

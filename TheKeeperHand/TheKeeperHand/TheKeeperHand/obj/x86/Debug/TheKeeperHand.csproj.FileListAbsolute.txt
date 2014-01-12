@@ -1,0 +1,10 @@
+\\vmware-host\Shared Folders\Documents\Projet - EPITA SUP\The keeper hand\Projet Visual 2010 XNA\TheKeeperHand\TheKeeperHand\TheKeeperHand\bin\x86\Debug\Content\Textures\TileSets\cursorTileSet.xnb
+\\vmware-host\Shared Folders\Documents\Projet - EPITA SUP\The keeper hand\Projet Visual 2010 XNA\TheKeeperHand\TheKeeperHand\TheKeeperHand\bin\x86\Debug\Content\Textures\TileSets\tileSet1.xnb
+\\vmware-host\Shared Folders\Documents\Projet - EPITA SUP\The keeper hand\Projet Visual 2010 XNA\TheKeeperHand\TheKeeperHand\TheKeeperHand\bin\x86\Debug\Content\Textures\TileSets\tileSetInterieur.xnb
+\\vmware-host\Shared Folders\Documents\Projet - EPITA SUP\The keeper hand\Projet Visual 2010 XNA\TheKeeperHand\TheKeeperHand\TheKeeperHand\bin\x86\Debug\TheKeeperHand.exe
+\\vmware-host\Shared Folders\Documents\Projet - EPITA SUP\The keeper hand\Projet Visual 2010 XNA\TheKeeperHand\TheKeeperHand\TheKeeperHand\bin\x86\Debug\TheKeeperHand.pdb
+\\vmware-host\Shared Folders\Documents\Projet - EPITA SUP\The keeper hand\Projet Visual 2010 XNA\TheKeeperHand\TheKeeperHand\TheKeeperHand\obj\x86\Debug\TheKeeperHand.csprojResolveAssemblyReference.cache
+\\vmware-host\Shared Folders\Documents\Projet - EPITA SUP\The keeper hand\Projet Visual 2010 XNA\TheKeeperHand\TheKeeperHand\TheKeeperHand\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+\\vmware-host\Shared Folders\Documents\Projet - EPITA SUP\The keeper hand\Projet Visual 2010 XNA\TheKeeperHand\TheKeeperHand\TheKeeperHand\obj\x86\Debug\TheKeeperHand.exe
+\\vmware-host\Shared Folders\Documents\Projet - EPITA SUP\The keeper hand\Projet Visual 2010 XNA\TheKeeperHand\TheKeeperHand\TheKeeperHand\obj\x86\Debug\TheKeeperHand.pdb
+\\vmware-host\Shared Folders\Documents\Projet - EPITA SUP\The keeper hand\Projet Visual 2010 XNA\TheKeeperHand\TheKeeperHand\TheKeeperHand\bin\x86\Debug\Content\Textures\TileSets\cursorTileSet2.xnb

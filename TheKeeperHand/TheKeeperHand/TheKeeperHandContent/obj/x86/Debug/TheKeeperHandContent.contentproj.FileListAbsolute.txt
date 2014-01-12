@@ -1,0 +1,1 @@
+\\vmware-host\Shared Folders\Documents\Projet - EPITA SUP\The keeper hand\Projet Visual 2010 XNA\TheKeeperHand\TheKeeperHand\TheKeeperHandContent\obj\x86\Debug\TheKeeperHandContent.contentprojResolveAssemblyReference.cache

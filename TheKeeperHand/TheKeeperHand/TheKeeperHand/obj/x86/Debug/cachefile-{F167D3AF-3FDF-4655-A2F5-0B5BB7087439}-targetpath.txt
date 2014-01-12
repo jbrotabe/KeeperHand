@@ -1,0 +1,4 @@
+Content\Textures\TileSets\cursorTileSet.xnb
+Content\Textures\TileSets\tileSet1.xnb
+Content\Textures\TileSets\tileSetInterieur.xnb
+Content\Textures\TileSets\cursorTileSet2.xnb
